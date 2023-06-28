@@ -35,7 +35,7 @@
 - [Uppgifter från grundkursen som man inte hann bli färdig med](UppgifterFrånPythonGrundkurs)
 - - Glöm inte [extrauppgifterna](UppgifterFrånPythonGrundkurs/Extra)
 - Något av spelen under kategorin [Spel där man använder och lär sig python](#spel-där-man-använder-sig-av-och-lär-sig-python)
-- [~~Sommaruppgifterna i mappen Sommaruppgifter~~](Sommaruppgifter) Dessa är inte klara än.
+- [Sommaruppgifterna i mappen Sommaruppgifter](Sommaruppgifter) Dessa är under uppbyggnad och än så länge fåtaliga.
 
 ### Länkar till tutorials, verktyg och annat hjälpsamt:
 
