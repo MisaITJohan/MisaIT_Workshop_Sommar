@@ -26,6 +26,7 @@
 - Gör färdigt uppgifter eller moment som inte blev färdiga under kursen.
 - Titta på tutorials på nätet; under kategorierna [Python](#python) och [Unreal](#unreal) så finns några generella tips.
 - Arbeta på egen hand med något som ni kommit på själva eller något som respektive kursledare föreslagit. Förslag för [Python](#python) kan ni hitta längre ned.
+- På "bardisken" i deltagarutrymmet finns det en pärm med övningar för praktik, hur man skriver ett CV och dylikt. Fråga någon i personalen om ni är osäkra var den står.
 
 
 
@@ -33,7 +34,7 @@
 
 ### Förslag på saker att arbeta med:
 - [Uppgifter från grundkursen som man inte hann bli färdig med](UppgifterFrånPythonGrundkurs)
-- - Glöm inte [extrauppgifterna](UppgifterFrånPythonGrundkurs/Extra)
+  - Glöm inte [extrauppgifterna](UppgifterFrånPythonGrundkurs/Extra)
 - Något av spelen under kategorin [Spel där man använder och lär sig python](#spel-där-man-använder-sig-av-och-lär-sig-python)
 - [Sommaruppgifterna i mappen Sommaruppgifter](Sommaruppgifter) Dessa är under uppbyggnad och än så länge fåtaliga.
 
