@@ -1,4 +1,4 @@
-# **Välkomna till sommarens workshoppar på MISA IT!**
+# **Välkomna till sommarens workshoppar på Misa IT!**
 <!-- TOC -->
 * [**Välkomna till sommarens workshoppar på MISA IT!**](#välkomna-till-sommarens-workshoppar-på-misa-it)
   * [Förklaring av upplägget:](#förklaring-av-upplägget)
@@ -15,7 +15,7 @@
 ## Förklaring av upplägget:
 **Under sommaren kommer upplägget på våra workshoppar vara lite annorlunda än hur vi har lagt upp det under pågående kurser.**
 
-**Alla kurser vi har på MISA IT har workshop tillsammans då tanken är att ni ska arbeta på egen hand.**
+**Alla kurser vi har på Misa IT har workshop tillsammans då tanken är att ni ska arbeta på egen hand.**
 
 **Johan eller Martin kommer oftast inte finnas tillgängliga för frågor då det är tänkt att ni ska arbeta på egen hand.**
 
@@ -35,6 +35,7 @@
 ### Förslag på saker att arbeta med:
 - [Uppgifter från grundkursen som man inte hann bli färdig med](UppgifterFrånPythonGrundkurs)
   - Glöm inte [extrauppgifterna](UppgifterFrånPythonGrundkurs/Extra)
+- [Uppgifter från fortsättningskursen som man inte hann bli färdig med](UppgifterFrånPythonFortsättningskurs)
 - Något av spelen under kategorin [Spel där man använder och lär sig python](#spel-där-man-använder-sig-av-och-lär-sig-python)
 - [Sommaruppgifterna i mappen Sommaruppgifter](Sommaruppgifter) Dessa är under uppbyggnad och än så länge fåtaliga.
 
@@ -56,5 +57,5 @@
 [//]: # (### Länkar till tutorials, verktyg och annat hjälpsamt:)
 
 #### Länkar till grundkursens och fortsättningskursens lektionskanaler
-- [Discord - Grundkursens inspelade lektioner](https://discord.com/channels/700244741077467218/882179735625560075)
-- [Discord - Fortsättningskursens inspelade lektioner](https://discord.com/channels/700244741077467218/882196322894118982)
+- [Discord - Grundkursens inspelade lektioner](https://discord.com/channels/700244741077467218/1228248036120203324)
+- [Discord - Fortsättningskursens inspelade lektioner](https://discord.com/channels/700244741077467218/1228248140130287636)
